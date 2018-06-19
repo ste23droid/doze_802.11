@@ -8,7 +8,6 @@ With the announcement of **Android Marshmallow (Android M 6.0)**, Google
 introduced a new power saving functionality called **Doze**, aiming to intelligently prolongue the lifetime of Android smartphones, tablets and wearable devices. This project aims to investigate what is the **real impact on 802.11 power saving functionalities for devices where Doze is enabled**.
 
 ## Tools
-* Python 3.6
+* Python 3.6: pyshark
 * Wireshark
 * AirTool
-* pyshark
